@@ -1,4 +1,4 @@
-# TESTCASE
+# TESTCASE - APP1
 
 1. RESTful API
 2. Приложение принимает аутентификацию через SIMPLE JWT(JSON Web Token Authentication)
@@ -7,3 +7,7 @@
 3. Использованы [serializers.py] (Сериализаторы),
 которые позволяют преобразовывать сложные типы данных в форматы Python, например JSON 
 4. Подключена документация [swagger-ui.html]
+
+
+# TESTCASE - APP2
+1. Получение данных с биржи

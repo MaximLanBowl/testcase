@@ -19,3 +19,5 @@ class Ref(models.Model):
     objects = None
     refer = models.ForeignKey(User, related_name='refer', on_delete=models.CASCADE)
     refed = models.ForeignKey(User, related_name='refed', on_delete=models.CASCADE)
+
+
